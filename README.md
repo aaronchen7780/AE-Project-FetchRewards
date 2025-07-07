@@ -1,6 +1,6 @@
 # Fetch Rewards Coding Exercise - Analytics Engineer
 
-This repository includes all the files you need to run and inspect my work.
+This repository includes all my coding assessment work as I interviewed for the Analytics Engineer position at Fetch Rewards. I passed the interview.
 
 ## Repository Breakdown
 
